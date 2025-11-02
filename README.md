@@ -85,6 +85,18 @@ It pushed me to grow in **data modeling, DAX logic,** and **storytelling design.
 
 *🗺️ Maven Market Maps Dashboard — breaking down performance by geography & KPIs.*
 
+View the documentations for fourther recommendations...
+
+<img width="831" height="460" alt="image" src="https://github.com/user-attachments/assets/3bb6e35a-e002-48bc-b840-6d551db1d1a8" />
+<img width="813" height="459" alt="image" src="https://github.com/user-attachments/assets/b6da5ed8-a414-44c6-acb6-4ac7f86d0749" />
+<img width="824" height="460" alt="image" src="https://github.com/user-attachments/assets/5e275f75-d2b3-4e44-af1f-74dc012edd83" />
+<img width="822" height="462" alt="image" src="https://github.com/user-attachments/assets/6e3b1ad4-9bf3-4fbf-85c1-7538eca4a7b4" />
+<img width="816" height="466" alt="image" src="https://github.com/user-attachments/assets/b2fe019c-1f0e-4221-bb77-2cfea7a432ea" />
+<img width="813" height="454" alt="image" src="https://github.com/user-attachments/assets/a29d3c7f-1cf5-4752-9efc-821941b96d7e" />
+
+
+
+
 ---
 
 ## ✨ Final Thoughts  
