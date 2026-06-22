@@ -1,4 +1,4 @@
-# Maven Market | Revenue, Risk & Smarter Decisions — A Power BI Story
+# Maven Market | Revenue, Risk & Smarter Decisions
 
 **What happens when some products are quietly draining your profit while others are carrying the whole business?**
 
