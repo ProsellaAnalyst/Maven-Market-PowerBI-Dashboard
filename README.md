@@ -113,12 +113,3 @@ Filter out the noise. Identify what is genuinely driving profit, what is draggin
 - Attention to Detail
 - Business Storytelling
 
----
-
-## ✨ Final Thoughts
-
-This project is not just about dashboards — it is about making numbers answer the questions that actually matter.
-
-Not just *"how are we doing?"* but *"why is this happening, what is the risk, and what do we do next?"*
-
-Every visualization in this suite was built to move someone from confusion to clarity — and from insight to action.
